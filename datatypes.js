@@ -24,4 +24,5 @@ console.log(typeof "Sadaqat");
 console.log(typeof(age));
 console.log(typeof undefined); // output is undefined
 console.log(typeof null); // object
+//this is trial
 
